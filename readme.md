@@ -1,22 +1,14 @@
 # find_net_labels
 
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
-
-  <h3 align="center">find_net_labels</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/EDA-Solutions-Limited/find_net_labels"><strong>Explore the project »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/EDA-Solutions-Limited/find_net_labels/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/EDA-Solutions-Limited/find_net_labels/issues">Request Feature</a>
-  </p>
+  <br />
+  <a href="https://github.com/EDA-Solutions-Limited/find_net_labels"><strong>Explore the project »</strong></a>
+  <br />
+  <a href="https://github.com/EDA-Solutions-Limited/find_net_labels/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/EDA-Solutions-Limited/find_net_labels/issues">Request Feature</a>
 </p>
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
