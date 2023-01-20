@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Adds the ability to select a net in S-edit and then through a hotkey combination step through all other net labels with the same name.
+Adds the ability to select a net in S-edit and then cycles through net labels with the same key using a hotkey combination.
 
 ### Built With
 
@@ -56,14 +56,13 @@ Adds the ability to select a net in S-edit and then through a hotkey combination
 <!-- GETTING STARTED -->
 ## Getting Started
 
-run as a Tcl script in S-edit
-1. select a net
-2. press the hotkey combo 'Ctrl+Alt+F'
+Run as a Tcl script in S-edit
+1. Select a net
+2. Press the hotkey combo 'Ctrl+Alt+F'
 
 ### Prerequisites
 
 S-edit schematic design.
-
 
 ### Installation
 
@@ -78,7 +77,7 @@ You can also clone the repo:
 <!-- ROADMAP -->
 ## Roadmap
 
-1. Add the ability to goto prevous net label
+1. Add the ability to go to a previous net label
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -94,7 +93,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- LICENSE -->
 ## License
-Not to be distributed to anyone outside EDA solutions. 
+GNU General Public License v3.0
 
 <!-- CONTACT -->
 ## Contact
